@@ -1,5 +1,6 @@
 setInterval(()=>{
-  buyCrate("add")
+  currentCrate="add"
+  buyCrate()
 })
 
 
